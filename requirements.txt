@@ -1,0 +1,10 @@
+streamlit
+openai
+faiss-cpu
+pymupdf
+numpy
+tqdm
+python-dotenv
+tiktoken
+beautifulsoup4
+markdown2
